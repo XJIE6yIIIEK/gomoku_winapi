@@ -1,7 +1,7 @@
 Game is unplayable now and not done yet. 
 
 Source code is located in "WinAPILab":
-guilib.cpp/guilib.h - programm`s GUI code
+guilib.cpp/guilib.h - GUI code of programm
 main_logic.cpp/main_logic.h - Entry point and events handler
 srlzsys.cpp/srlzsys.h - Code for build config.ini
 tictactoe.cpp/tictactoe.h
