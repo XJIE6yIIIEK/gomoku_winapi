@@ -1,0 +1,9 @@
+﻿  LoadImage.cpp
+     Создается библиотека C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\Release\imagelib.lib и объект C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\Release\imagelib.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  Создание кода
+  1 of 395 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  imagelib.vcxproj -> C:\Users\XJIE6yIIIEK\source\repos\WinAPILab\Release\imagelib.dll
